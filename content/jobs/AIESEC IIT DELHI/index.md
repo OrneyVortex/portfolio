@@ -3,7 +3,7 @@ date: '01-09-2022'
 title: 'Member | Business Development'
 company: 'AIESEC'
 location: 'Delhi IIT'
-range: '2020 - 2021'
+range: '2022 - Present'
 url: 'https://aiesec.org/'
 ---
 
